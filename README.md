@@ -1,6 +1,6 @@
 # ComplexSystemWebsite
 
-A modern landing page for a deep-tech company focused on AI, robotics, and space systems.
+A modern landing page for a deep-tech company focused on complex systems and systems-level problem solving.
 
 ## GitHub Pages
 
