@@ -259,6 +259,40 @@ h1 {
   gap: 1rem;
 }
 
+.footer {
+  padding: 3rem 0;
+  background: rgba(255, 255, 255, 0.04);
+  border-top: 1px solid var(--border);
+}
+
+.footer-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: center;
+}
+
+.footer p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.footer-links a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: var(--accent);
+}
+
 @media (max-width: 840px) {
   .hero-grid,
   .approach-grid,
